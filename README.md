@@ -1,1 +1,1 @@
-# supermarket_bill
+# supermarket_bill generation by python code
